@@ -1,0 +1,5 @@
+from datetime import date
+f_date=date(2018,4,23)
+l_date=date(2018,8,24)
+delta=l_date-f_date
+print(delta.days)
