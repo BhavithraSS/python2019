@@ -1,0 +1,4 @@
+str=input("enter a string")
+n=int(input("enter a range"))
+c=str*n
+print(c)
