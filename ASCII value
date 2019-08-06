@@ -1,0 +1,4 @@
+print()
+print(ord('d'))
+print(ord('A'))
+print(ord('@'))
