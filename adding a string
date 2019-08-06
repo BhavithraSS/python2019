@@ -1,0 +1,5 @@
+str=input("enter a string")
+if str[0]=='Is':
+  print("str")
+else:
+  print("Is"+str)
