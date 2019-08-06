@@ -1,0 +1,6 @@
+vowels=['a','e','i','o','u','A','E','I','O','U']
+char=(input("enter a letter"))
+if char in vowels:
+  print("the letter is  vowel")
+else:
+  print("the letter is not a vowel")
