@@ -1,0 +1,4 @@
+name="Bhavithra"
+age=19
+address="Chennai,Tamilnadu,India"
+print("Name:{}\nAge:{}\nAddress:{}\n".format(name,age,address))
