@@ -1,0 +1,3 @@
+tuple="w",3,"r","s","o","u","r","c","e"
+tuplex=tuple[:1]+tuple[2:]
+print(tuplex)
