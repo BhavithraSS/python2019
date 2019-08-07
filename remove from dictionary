@@ -1,0 +1,4 @@
+dic={'a':100,'b':200,'c':300}
+if 'a' in dic:
+    del dic['a']
+print(dic)
