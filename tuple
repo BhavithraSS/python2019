@@ -1,0 +1,3 @@
+tuple=(17,23,24,11)
+tuplex=24
+print(tuplex)
