@@ -1,0 +1,4 @@
+x=int(input("enter the number"))
+n=int(input("enter the power value"))
+p=x**n
+print(p)
