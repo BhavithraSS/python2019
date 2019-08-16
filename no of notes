@@ -1,0 +1,10 @@
+a=int(input("enter a value"))
+Q=(500,200,100,50,20,10)
+b=0
+for i in range(6):
+    q=Q[i]
+    b+=int(a/q)
+    a=int(a%q)
+if a>0:
+    b=-1
+print(b)
